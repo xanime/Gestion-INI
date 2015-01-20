@@ -191,7 +191,4 @@
 			}
 		}
    }
-   //teste//teste
-   //teste
-   //teste
 ?>
